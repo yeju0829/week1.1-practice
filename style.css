@@ -1,0 +1,22 @@
+nav{
+    background-color:blueviolet;
+    color:aliceblue;
+}
+.textbox{
+    font-size: 50px;
+    color: pink;
+
+}
+.mainbox{
+    background-color: pink;
+    width: 500px;
+    height: 300px;
+    border: solid 2px black;
+    border-radius:5px;
+    column-width: 100px;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
